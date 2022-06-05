@@ -1,6 +1,12 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohiliazov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Technology Stack
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+</p>
+
 <!--
 **ohiliazov/ohiliazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
